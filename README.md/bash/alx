@@ -1,0 +1,11 @@
+#!/bin/bash
+cat alx
+cat > school
+#!/bin/bash
+ls
+ls alx school
+git add .
+git commit -m “Starting to code today, so cool”
+git push
+clear
+:wq
